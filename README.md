@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/JlL66T2bKYKhM80wi0/giphy.gif" width="600" height="300"/>
+</div>
 ### Hi there 👋
 
 <!--
